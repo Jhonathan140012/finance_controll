@@ -12,7 +12,20 @@
           "package_name": "com.example.finance_controll"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "730462240566-qab7a8rnegbprdtt8qleok4jpl2445s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finance_controll",
+            "certificate_hash": "ee4379c4b932ff02680e497e29d14360e5701a73"
+          }
+        },
+        {
+          "client_id": "730462240566-gv1md5fth7dikcop0183sbobivbvrap2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA_AGCNy1GnkXYC36l_k33W2fzg4oQA_RQ"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730462240566-gv1md5fth7dikcop0183sbobivbvrap2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
